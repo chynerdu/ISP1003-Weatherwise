@@ -23,17 +23,19 @@ namespace WeatherWise
 #if DEBUG
 		builder.Logging.AddDebug();
 
-            builder.Services.AddSingleton(services => new FirebaseAuthClient(new FirebaseAuthConfig()
-            {
-                ApiKey = "AIzaSyCIM8KnE9p3feUGAJjk51StTBA8CAwU8Gk",
-                AuthDomain = "loginwith-99aa7.firebaseapp.com",
-                Providers = new FirebaseAuthProvider[]
-                {
-                    new EmailProvider()
-                },
-                UserRepository = services.GetRequiredService<IUserRepository>()
-            }));
+            //builder.Services.AddSingleton(services => new FirebaseAuthClient(new FirebaseAuthConfig()
+            //{
+            //    ApiKey = "AIzaSyCIM8KnE9p3feUGAJjk51StTBA8CAwU8Gk",
+            //    AuthDomain = "loginwith-99aa7.firebaseapp.com",
+            //    Providers = new FirebaseAuthProvider[]
+            //    {
+            //        new EmailProvider()
+            //    },
+            //    UserRepository = services.GetRequiredService<IUserRepository>()
+            //}));
 #endif
+
+            
 
             return builder.Build();
         }
