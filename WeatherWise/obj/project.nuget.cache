@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DaKtzutsr9K9iYycAUhmYrJYRKaR6gF0OMV7YfBidUPQEuZHfFDiDesg1kXZA5eCtbDyIYyWJZ1aUvrPB2UbIw==",
+  "dgSpecHash": "nXt6lTa6vf936Skh1n4wJJ6ZzDdQzgGUwJtozF5TaRDcqOj9d6Jq2bPZ0zfq5pS+18jrXX60q3HZX+8+s0Vexw==",
   "success": true,
-  "projectFilePath": "/Users/chineduuche/Documents/cambrian/Semester2/AdvancedAndroid/ISP1004-WeatherWise/WeatherWise/WeatherWise.csproj",
+  "projectFilePath": "/Users/chineduuche/Documents/cambrian/Semester2/Cloud Computing/project/ISP1003-Weatherwise/WeatherWise/WeatherWise.csproj",
   "expectedPackageFiles": [
     "/Users/chineduuche/.nuget/packages/firebaseauthentication.net/4.1.0/firebaseauthentication.net.4.1.0.nupkg.sha512",
     "/Users/chineduuche/.nuget/packages/googlegson/2.9.1.1/googlegson.2.9.1.1.nupkg.sha512",

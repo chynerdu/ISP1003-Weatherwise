@@ -28,7 +28,7 @@ namespace WeatherWise.ViewModels
             set => SetProperty(ref _isBusy, value);
         }
 
-       
+
         private bool _showButton = true;
         public bool ShowButton
         {
@@ -40,7 +40,7 @@ namespace WeatherWise.ViewModels
         protected bool SetProperty<T>(ref T backingStore, T value,
              [CallerMemberName] string propertyName = "",
              Action onChanged = null)
-                    {
+        {
             if (EqualityComparer<T>.Default.Equals(backingStore, value))
                 return false;
 
@@ -81,14 +81,14 @@ namespace WeatherWise.ViewModels
 
         public SignupViewModel(INavigation navigation)
         {
-            
+
             SignupCommand = new Command(SignUpCommand);
             this.Navigation = navigation;
             LogInUser = new Command(NavigateToLogIn);
         }
 
         private async void SignUpCommand()
-        {       
+        {
             try
             {
                 if (IsBusy) return;
@@ -100,7 +100,8 @@ namespace WeatherWise.ViewModels
                     IsBusy = false;
                     ShowButton = true;
                     await Application.Current.MainPage.DisplayAlert("Error", "username and password cannot be empty", "Ok");
-                } else
+                }
+                else
                 {
                     var config = new FirebaseAuthConfig
                     {
@@ -130,7 +131,7 @@ namespace WeatherWise.ViewModels
 
                     await Navigation.PushAsync(new Views.WeatherWisePage());
                 }
-                
+
             }
             catch (Exception e)
             {

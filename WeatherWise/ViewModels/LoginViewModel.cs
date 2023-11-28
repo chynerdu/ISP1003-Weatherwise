@@ -62,9 +62,12 @@ namespace WeatherWise.ViewModels
         public LoginRequestModel MyLoginRequestModel
         {
             get { return myloginRequestModel; }
-            set { myloginRequestModel = value; 
-            
-            OnPropertChanged(nameof(MyLoginRequestModel));} 
+            set
+            {
+                myloginRequestModel = value;
+
+                OnPropertChanged(nameof(MyLoginRequestModel));
+            }
         }
 
         public ICommand LoginCommand { get; set; }
@@ -135,7 +138,7 @@ namespace WeatherWise.ViewModels
                     await Application.Current.MainPage.DisplayAlert("Error", e.Message, "Ok");
                 }
             }
-           
+
         }
 
         private async void NavigateToSignUp()

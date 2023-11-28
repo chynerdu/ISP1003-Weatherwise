@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/chineduuche/Documents/cambrian/Semester2/AdvancedAndroid/ISP1004-WeatherWise/WeatherWise/WeatherWise.csproj": {}
+    "/Users/chineduuche/Documents/cambrian/Semester2/Cloud Computing/project/ISP1003-Weatherwise/WeatherWise/WeatherWise.csproj": {}
   },
   "projects": {
-    "/Users/chineduuche/Documents/cambrian/Semester2/AdvancedAndroid/ISP1004-WeatherWise/WeatherWise/WeatherWise.csproj": {
+    "/Users/chineduuche/Documents/cambrian/Semester2/Cloud Computing/project/ISP1003-Weatherwise/WeatherWise/WeatherWise.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/chineduuche/Documents/cambrian/Semester2/AdvancedAndroid/ISP1004-WeatherWise/WeatherWise/WeatherWise.csproj",
+        "projectUniqueName": "/Users/chineduuche/Documents/cambrian/Semester2/Cloud Computing/project/ISP1003-Weatherwise/WeatherWise/WeatherWise.csproj",
         "projectName": "WeatherWise",
-        "projectPath": "/Users/chineduuche/Documents/cambrian/Semester2/AdvancedAndroid/ISP1004-WeatherWise/WeatherWise/WeatherWise.csproj",
+        "projectPath": "/Users/chineduuche/Documents/cambrian/Semester2/Cloud Computing/project/ISP1003-Weatherwise/WeatherWise/WeatherWise.csproj",
         "packagesPath": "/Users/chineduuche/.nuget/packages/",
-        "outputPath": "/Users/chineduuche/Documents/cambrian/Semester2/AdvancedAndroid/ISP1004-WeatherWise/WeatherWise/obj/",
+        "outputPath": "/Users/chineduuche/Documents/cambrian/Semester2/Cloud Computing/project/ISP1003-Weatherwise/WeatherWise/obj/",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
         "configFilePaths": [
