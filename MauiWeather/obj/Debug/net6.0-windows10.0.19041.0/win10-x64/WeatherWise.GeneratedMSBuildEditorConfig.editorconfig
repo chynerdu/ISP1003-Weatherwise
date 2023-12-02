@@ -1,0 +1,66 @@
+is_global = true
+build_property.PropertyChangedAnalyzerConfiguration = 
+build_property.TargetFramework = net6.0-windows10.0.19041.0
+build_property.TargetPlatformMinVersion = 10.0.17763.0
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 9A19103F-16F7-4668-BE54-9A1E7A4F7556
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = WeatherWise
+build_property.ProjectDir = C:\Users\mahek\Music\WeatherWise\MauiWeather\
+
+[C:/Users/mahek/Music/WeatherWise/MauiWeather/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = WeatherWise.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[C:/Users/mahek/Music/WeatherWise/MauiWeather/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = WeatherWise.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
+
+[C:/Users/mahek/Music/WeatherWise/MauiWeather/MainPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = WeatherWise.MainPage.xaml
+build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
+build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
+
+[C:/Users/mahek/Music/WeatherWise/MauiWeather/MVVM/Views/LoginPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = WeatherWise.MVVM.Views.LoginPage.xaml
+build_metadata.AdditionalFiles.TargetPath = MVVM\Views\LoginPage.xaml
+build_metadata.AdditionalFiles.RelativePath = MVVM\Views\LoginPage.xaml
+
+[C:/Users/mahek/Music/WeatherWise/MauiWeather/MVVM/Views/SignupPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = WeatherWise.MVVM.Views.SignupPage.xaml
+build_metadata.AdditionalFiles.TargetPath = MVVM\Views\SignupPage.xaml
+build_metadata.AdditionalFiles.RelativePath = MVVM\Views\SignupPage.xaml
+
+[C:/Users/mahek/Music/WeatherWise/MauiWeather/MVVM/Views/WeatherView.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = WeatherWise.MVVM.Views.WeatherView.xaml
+build_metadata.AdditionalFiles.TargetPath = MVVM\Views\WeatherView.xaml
+build_metadata.AdditionalFiles.RelativePath = MVVM\Views\WeatherView.xaml
+
+[C:/Users/mahek/Music/WeatherWise/MauiWeather/Resources/Styles/AppStyles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = WeatherWise.Resources.Styles.AppStyles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\AppStyles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\AppStyles.xaml
+
+[C:/Users/mahek/Music/WeatherWise/MauiWeather/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = WeatherWise.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
+
+[C:/Users/mahek/Music/WeatherWise/MauiWeather/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = WeatherWise.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml

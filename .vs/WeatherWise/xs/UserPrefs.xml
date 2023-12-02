@@ -1,34 +1,39 @@
 ﻿<Properties StartupConfiguration="{9074BDBC-D7C6-43FE-8EC6-C876786383E0}|Default">
-  <MonoDevelop.MonoDroid LastDeploySdkVersion="33.0.68" />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.Workbench ActiveDocument="WeatherWise/ViewModels/SignupViewModel.cs">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="WeatherWise/ViewModels/LoginViewModel.cs">
     <Files>
       <File FileName="WeatherWise/ViewModels/WeatherWiseViewModel.cs" />
       <File FileName="WeatherWise/Views/WeatherWisePage.xaml" />
       <File FileName="WeatherWise/Views/LoginPage.xaml" />
-      <File FileName="WeatherWise/ViewModels/LoginViewModel.cs" />
-      <File FileName="WeatherWise/ViewModels/SignupViewModel.cs" Line="1" Column="1" />
+      <File FileName="WeatherWise/ViewModels/LoginViewModel.cs" Line="119" Column="51" />
+      <File FileName="WeatherWise/ViewModels/SignupViewModel.cs" Line="117" Column="19" />
+      <File FileName="WeatherWise/Views/LoginPage.xaml.cs" Line="1" Column="1" />
+      <File FileName="WeatherWise/Views/SignupPage.xaml.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="WeatherWise">
+          <Node name="WeatherWise" expanded="True">
             <Node name="WeatherWise" expanded="True">
               <Node name="ViewModels" expanded="True">
-                <Node name="SignupViewModel.cs" selected="True" />
+                <Node name="LoginViewModel.cs" selected="True" />
               </Node>
-              <Node name="Views" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="LoginPage.xaml" expanded="True" />
+                <Node name="SignupPage.xaml" expanded="True" />
+              </Node>
             </Node>
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.WeatherWise PreferredExecutionTarget="Android.Pixel_3_API_29" />
-  <Xamarin.Addins.Core.Project ActiveDebugTarget="Android.Pixel_3_API_29" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.WeatherWise PreferredExecutionTarget="Android.Pixel_3_API_29" />
   <MultiItemStartupConfigurations />
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="Android.Pixel_3_API_29" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.MonoDroid LastDeploySdkVersion="33.0.68" />
 </Properties>
